@@ -18,7 +18,7 @@ tsc init
 ```
 Then rename
 
-"target":"es5",
+"target": "es5",
 
  "module": "commonjs",
 
