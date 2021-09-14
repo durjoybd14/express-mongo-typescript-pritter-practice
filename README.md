@@ -16,15 +16,15 @@ npm i tsc --v
 ```sh
 tsc init
 ```
-### "target":"es5",
-### "module": "commonjs",
-### "rootDir": "./src",
-### "moduleResolution": "node",
-### "outDir": "./dist",
-### "esModuleInterop": true,
-### "forceConsistentCasingInFileNames": true,
-### "strict": true, 
-### "skipLibCheck": true
+"target":"es5",
+ "module": "commonjs",
+ "rootDir": "./src",
+ "moduleResolution": "node",
+ "outDir": "./dist",
+ "esModuleInterop": true,
+ "forceConsistentCasingInFileNames": true,
+ "strict": true, 
+ "skipLibCheck": true
 
 ## Initialize node project
 
