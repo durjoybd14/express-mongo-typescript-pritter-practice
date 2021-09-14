@@ -8,7 +8,7 @@ npm i -g typescript
 2. Check the version of typescript
 
 ```sh 
-npm i tsc --v
+tsc --v
 ```
 
 3. Add typescript config file (tsconfig.json)
