@@ -1,9 +1,9 @@
 ## Initialize typescript
 
-1. Install typescript globally on machine
+1. Install typescript ts-node and globally on machine
 
 ```sh
-npm i -g typescript
+npm i -g typescript ts-node
 ```
 2. Check the version of typescript
 
@@ -35,6 +35,7 @@ Then rename
  "strict": true, 
  
  "skipLibCheck": true
+ 
 
 ## Initialize node project
 
@@ -56,3 +57,9 @@ npm i express dotenv cors mongoose
 npm i -D nodemon typescript ts-node @types/node @types/express
 ```
 
+## Prettier installation
+
+
+```sh
+ npm i -D eslint prettier eslint-config-prettier eslint-plugin-import eslint-plugin-prettier eslint-config-airbnb-base @typescript-eslint/eslint-plugin @typescript-eslint/parser
+```
