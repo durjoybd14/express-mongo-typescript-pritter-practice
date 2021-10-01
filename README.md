@@ -8,7 +8,7 @@ npm i -g typescript ts-node
 2. Check the version of typescript
 
 ```sh 
-npm i tsc --v
+tsc --v
 ```
 
 3. Add typescript config file (tsconfig.json)
@@ -18,7 +18,7 @@ tsc init
 ```
 Then rename
 
-"target":"es5",
+"target": "es5",
 
  "module": "commonjs",
 
